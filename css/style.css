@@ -36,7 +36,6 @@ ul{
     border-color: #2b2b2b;
     border-style: solid;
     transform: rotate(45deg);
-    transform-origin: top left;
     content: " ";
     transition: all .25s ease;
 }
